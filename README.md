@@ -6,6 +6,7 @@ This repository is an attempt to document some e-Governance practices known in p
 ## eGovernance initiatives by Government of India
 [MyGov](https://www.mygov.in/) portal, [Data from MyGov](https://data.gov.in/) and the recent most [CoWin](https://www.cowin.gov.in/) - all made in India, for India. A [dashboard](https://dashboard.cowin.gov.in/) of tracking numbers.   
 
+On Covid-19 a related community driven initiative [covid19india.org](https://www.covid19india.org/) and [story](https://blog.covid19india.org/2020/03/14/init/) of how it started.   
 
 ## Odisha State Dashboard 
 [Odisha State Dashboard with success stories](https://statedashboard.odisha.gov.in/Pages/successStories) and [Odisha Covid tracker](https://statedashboard.odisha.gov.in/) - developed by a home-grown Indian company.   
