@@ -15,3 +15,10 @@ On Covid-19 a related community driven initiative [covid19india.org](https://www
 ## eGovernance at IIT Jammu 
 Some experiments and learning from e-Governance (EG) and process automation since 2018 are mentioned on their [website](https://iitjammu.ac.in/eg). [EG Brochure](https://drive.google.com/file/d/16g5_HIScd0YXbb93EWWu505NVhUiK44d/view), [a Booklet](https://drive.google.com/file/d/1DCz7HfI7KTeKM_UNSK3OjAsp5C1j0usJ/view) and [an old presentation](https://drive.google.com/file/d/1hKmxvwEsFm9TKcW-6Ma6poGtNMM6silK/view).   
 
+## ERPNext 
+[ERPNext](https://erpnext.com/open-source-education) based on Frappe, [ERPNext source repository](https://github.com/frappe/erpnext).    
+
+
+## Samarth 
+[Samarth](https://samarth.edu.in/) is used by Central Universities in India, [booklet](https://samarth.edu.in/pdf/samarth-egov-booklet.pdf)   
+
