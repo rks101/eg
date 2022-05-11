@@ -28,3 +28,5 @@ Some experiments and learning from e-Governance (EG) and process automation sinc
 
 ## J&K Govt 
 [Employee Performance Monitoring portal J&K](https://epm.jk.gov.in/)    
+
+Few govt websites need attention such as [DGGI](https://jk.gov.in/jammukashmir/?q=search/node/dggi) or [main website](https://jk.gov.in/) and [Avail 126 Online Services Under EoDB - Invest JK](https://www.investjk.in/)    
