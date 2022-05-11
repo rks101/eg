@@ -2,6 +2,10 @@
 This repository is an attempt to document some e-Governance practices known in public domain. We can always take a leaf.   
 
 
+## 75 Digital Services from NIC 
+[75 Digital Solutions ebook](https://75dsn.nic.in/)   
+
+
 ## S3WaaS 
 [S3WaaS](https://s3waas.gov.in/) => Secure, Scalable & Sugamya (Accessible) Websites as a Service is a cloud-hosted service for government entities to generate Secure, Scalable & Sugamya (Accessible) websites that have unified interfaces. Check out District portals and portals of government agencies.    
 
@@ -29,4 +33,4 @@ Some experiments and learning from e-Governance (EG) and process automation sinc
 ## J&K Govt 
 [Employee Performance Monitoring portal J&K](https://epm.jk.gov.in/)    
 
-Few govt websites need attention such as [DGGI](https://jk.gov.in/jammukashmir/?q=search/node/dggi) or [main website](https://jk.gov.in/) and [Avail 126 Online Services Under EoDB - Invest JK](https://www.investjk.in/)    
+With so many schemes running in J&K, IT solutions/few govt websites need attention such as [DGGI](https://jk.gov.in/jammukashmir/?q=search/node/dggi) or [main website](https://jk.gov.in/) and [Avail 126 Online Services Under EoDB - Invest JK](https://www.investjk.in/)    
