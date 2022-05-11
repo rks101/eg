@@ -6,6 +6,9 @@ This repository is an attempt to document some e-Governance practices known in p
 [75 Digital Solutions ebook](https://75dsn.nic.in/)   
 
 
+Obs: Lack of coordination among agencies, is leading to duplication or overlapping in solutions.   
+
+
 ## S3WaaS 
 [S3WaaS](https://s3waas.gov.in/) => Secure, Scalable & Sugamya (Accessible) Websites as a Service is a cloud-hosted service for government entities to generate Secure, Scalable & Sugamya (Accessible) websites that have unified interfaces. Check out District portals and portals of government agencies.    
 
