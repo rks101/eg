@@ -2,6 +2,9 @@
 This repository is an attempt to document some e-Governance practices known in public domain. We can always take a leaf.   
 
 
+## S3WaaS 
+[S3WaaS](https://s3waas.gov.in/) => Secure, Scalable & Sugamya (Accessible) Websites as a Service is a cloud-hosted service for government entities to generate Secure, Scalable & Sugamya (Accessible) websites that have unified interfaces. Check out District portals and portals of government agencies.    
+
 
 ## eGovernance initiatives by Government of India
 [MyGov](https://www.mygov.in/) portal, [Data from MyGov](https://data.gov.in/) and the recent most [CoWin](https://www.cowin.gov.in/) - all made in India, for India. A [dashboard](https://dashboard.cowin.gov.in/) of tracking numbers.   
@@ -22,3 +25,6 @@ Some experiments and learning from e-Governance (EG) and process automation sinc
 ## Samarth 
 [Samarth](https://samarth.edu.in/) is used by Central Universities in India, [booklet](https://samarth.edu.in/pdf/samarth-egov-booklet.pdf)   
 
+
+## J&K Govt 
+[Employee Performance Monitoring portal J&K](https://epm.jk.gov.in/)    
