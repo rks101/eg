@@ -2,7 +2,7 @@
 This repository is an attempt to document some e-Governance practices known in public domain. We can always take a leaf.   
 
 * [eg](#eg)
-  * [75 Digital Services from NIC](#75-digital-services-from-NIC)
+     * [75 Digital Services from NIC](#75-digital-services-from-NIC)
 
 ## 75 Digital Services from NIC 
 [75 Digital Solutions ebook](https://75dsn.nic.in/)   
