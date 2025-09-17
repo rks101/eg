@@ -1,6 +1,8 @@
 # eg
 This repository is an attempt to document some e-Governance practices known in public domain. We can always take a leaf.   
 
+* [eg](#eg)
+  * [75 Digital Services from NIC](#75-digital-services-from-NIC)
 
 ## 75 Digital Services from NIC 
 [75 Digital Solutions ebook](https://75dsn.nic.in/)   
@@ -37,3 +39,5 @@ Some experiments and learning from e-Governance (EG) and process automation sinc
 [Employee Performance Monitoring portal J&K](https://epm.jk.gov.in/)    
 
 With so many schemes running in J&K, IT solutions/few govt websites need attention such as [DGGI](https://jk.gov.in/jammukashmir/?q=search/node/dggi) or [main website](https://jk.gov.in/) and [Avail 126 Online Services Under EoDB - Invest JK](https://www.investjk.in/)    
+
+## ServicePlus   
